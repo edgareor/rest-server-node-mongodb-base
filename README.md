@@ -7,7 +7,7 @@ Luego ejecutar `node main.js` or `nodemon main.js`
 ```
 El puerto configurado en el archivo .env es el 8182. 
 
-Existe una base de datos publica en MongoDB Atlas operativa 100%. Url: mongodb+srv://user_node:XPwxNWgT6yF6TzV@clustereojedar.5zyhw.mongodb.net/test
+Existe una base de datos publica en MongoDB Atlas operativa 100%. En caso de ocupar una BD distinta debe proporcionar su url de conexion.
 ```
 
 ## Metodos de API:
