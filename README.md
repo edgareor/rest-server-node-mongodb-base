@@ -9,6 +9,7 @@ El puerto configurado en el archivo .env es el 8182. Existe una base de datos pu
 
 > **NOTA:** *En caso de ocupar una BD distinta debe proporcionar su url de conexion.*
 
+___
 ## Metodos de API:
 
 ### GET ALL - http://localhost:8182/api
@@ -24,9 +25,11 @@ El puerto configurado en el archivo .env es el 8182. Existe una base de datos pu
 
 ### PUT - http://localhost:8182/api/id
 
+```javascript
 {
     "age": 10
 }
+```
 
 ### DELETE - http://localhost:8182/api/id
 
