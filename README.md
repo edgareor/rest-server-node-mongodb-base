@@ -8,8 +8,6 @@ El puerto configurado en el archivo .env es el 8182. Existe una base de datos pu
 [https://account.mongodb.com/account/login](https://account.mongodb.com/account/login)
 
 > **NOTA:** *En caso de ocupar una BD distinta debe proporcionar su url de conexion.*
-
-# Example
 ___
 ## Metodos de API:
 
